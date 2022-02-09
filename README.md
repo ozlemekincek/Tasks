@@ -1,4 +1,3 @@
-# TASK1 and TASK3
 ## General info
 Developed on Microsoft Visual Studio 2019 and .net Framework 4.0 with C#
 
